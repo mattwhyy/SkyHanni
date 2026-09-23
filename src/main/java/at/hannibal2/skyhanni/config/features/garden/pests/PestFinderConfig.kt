@@ -87,7 +87,6 @@ class PestFinderConfig {
     @ConfigEditorBoolean
     var alwaysTp: Boolean = false
 
-
     @Expose
     @ConfigOption(
         name = "Back to Garden",
